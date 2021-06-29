@@ -1,0 +1,8 @@
+# gradle config
+.gradle
+gradle
+
+# project binaries
+/build
+/out
+/classes
